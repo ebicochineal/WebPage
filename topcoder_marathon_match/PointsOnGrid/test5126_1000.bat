@@ -1,1 +1,0 @@
-cmd /k mtest.py 5126 1000
