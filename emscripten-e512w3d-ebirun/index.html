@@ -5,11 +5,13 @@
         <meta name="description" content="emscripten-e512w3d">
         <title>emscripten-e512w3d</title>
         <style>
-            -webkit-user-select : none;
-            -moz-user-select : none;
-            -ms-user-select : none;
-            -o-user-select : none;
-            user-select : none;
+            body {
+                -webkit-user-select : none;
+                -moz-user-select : none;
+                -ms-user-select : none;
+                -o-user-select : none;
+                user-select : none;
+            }
         </style>
         <script src="e512w3d.js"></script>
         <script>
@@ -24,8 +26,8 @@
             window.onload = CanvasStyleResize;
         </script>
     </head>
-    <body style="margin:0;" onSelectStart="return false;">
+    <body style="margin:0;">
         <canvas id="e512w3d-canvas"></canvas>
-        <p unselectable="on">・<a href="https://github.com/ebicochineal/E512W3D" target="_blank">E512W3D</a></p>
+        <p>・<a href="https://github.com/ebicochineal/E512W3D" target="_blank">E512W3D</a></p>
     </body>
 </html>
