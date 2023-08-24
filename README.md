@@ -7,3 +7,4 @@
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-quadview/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebikagamimoti/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebirun/>  
+<https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebiballoon/>  
