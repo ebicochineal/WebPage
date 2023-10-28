@@ -8,3 +8,4 @@
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebikagamimoti/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebirun/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebiballoon/>  
+<https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebigame202310/>  
