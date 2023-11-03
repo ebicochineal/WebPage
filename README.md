@@ -9,3 +9,4 @@
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebirun/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebiballoon/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebigame202310/>  
+<https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ahoge42-kaigarahoteru/>  
