@@ -11,3 +11,4 @@
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ebigame202310/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ahoge42-kaigarahoteru/>  
 <https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ahoge44-kawakudariwosuruebi/>  
+<https://ebicochineal.github.io/WebPage/emscripten-e512w3d-ahoge45-sirokuroswitch/>  
